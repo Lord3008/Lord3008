@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lord Sen</h1>
-<h3 align="center">A passionate AI-ML developer from West Bengal, India</h3>
+<h3 align="center">A passionate AI-ML developer from West Bengal, India.</h3>
 
 <img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg">
 
