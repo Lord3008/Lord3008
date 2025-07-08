@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **CrypteX**
+- 🔭 I’m currently working on **Quantum Machine Learning**
 
 - 🌱 I’m currently learning **Quantum Computing, RAG, Gen AI**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, QC**
+- 💬 Ask me about **Machine Learning, Deep Learning, QML**
 
 - ⚡ Fun fact **I am funny and curious :)**
 
